@@ -1,5 +1,4 @@
 Lab 7
-Due: Mon Nov 2, 11:59 pm EDT
 
 Problem
 Write a program which, given a number, simulates rolling a pair of six-sided dice that number of times. The program should keep track of how many times each possible sum comes up using a list. The list's first element should contain how many times a total of 2 was rolled, the second should contain how many times a total of 3 was rolled, and so on all the way through to 12. When all rolls are complete, the program should output the resulting list as well as a chart as shown in the example below, where the number of asterisks represents the number of times that roll came up (results will vary with each run). In this example, the user requested the dice be rolled 100 times:
